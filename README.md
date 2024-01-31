@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Spring / Spring Boot
 - 👯 I want to take part in projects where I can benefit from my skills and improve myself.
 - 📫 How to reach me: sahinahmedblal48@gmail.com
-- 👀 I also curious about Networking, Machines and AI
+- 👀 I also curious about Networking, Robots and AI
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
