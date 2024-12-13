@@ -10,6 +10,10 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width ="50" height="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt ="c"
+   width = "50" height ="50"/>    
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt ="rust"
+   width = "50" height ="50"/>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt ="sprinboot"
   width ="50" height = "50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux"
@@ -23,8 +27,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt ="css"
    width = "50" height ="50"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width = "50" height = "50"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt ="c"
-   width = "50" height ="50"/>    
+
           
           
           
