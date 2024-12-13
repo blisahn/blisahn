@@ -2,11 +2,10 @@
 
 
 
-- 🔭 I’m currently working on Web Applications
-- 🌱 I’m currently learning Spring / Spring Boot
+- 🔭 I’m currently working on Rust
 - 👯 I want to take part in projects where I can benefit from my skills and improve myself.
 - 📫 How to reach me: sahinahmedblal48@gmail.com
-- 👀 I also curious about Networking, Robots and AI
+- 👀 I also curious about Networking, Embedded Systems
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -24,6 +23,8 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt ="css"
    width = "50" height ="50"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width = "50" height = "50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt ="c"
+   width = "50" height ="50"/>    
           
           
           
