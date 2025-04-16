@@ -1,9 +1,5 @@
 ### Hi, I'm Ahmed 👋
 
-
-
-- 🔭 I’m currently working on Rust
-- 👯 I want to take part in projects where I can benefit from my skills and improve myself.
 - 📫 How to reach me: sahinahmedblal48@gmail.com
 - 👀 I also curious about Networking, Embedded Systems
 
