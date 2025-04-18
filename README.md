@@ -1,7 +1,7 @@
 ### Hi, I'm Ahmed 👋
 
 - 📫 How to reach me: sahinahmedblal48@gmail.com
-- 👀 I also curious about Networking, Embedded Systems
+- 👀 I also curious about Web Development, AI
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
