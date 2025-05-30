@@ -6,7 +6,7 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width ="50" height="50" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt ="c"
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/tree/master/icons/csharp alt ="CSharp"
    width = "50" height ="50"/>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt ="sprinboot"
   width ="50" height = "50"/>
