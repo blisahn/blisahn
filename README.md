@@ -33,7 +33,6 @@ I enjoy building clean, scalable solutions and continuously learning new technol
 <h2>📈 &nbsp;GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blisahn&show_icons=true&theme=github_dark&hide_title=true&count_private=true" alt="Ahmed's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=blisahn&theme=github-dark&hide_border=true" alt="Ahmed's GitHub streaks" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blisahn&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 ---
