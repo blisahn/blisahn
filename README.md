@@ -29,10 +29,10 @@ I enjoy building clean, scalable solutions and continuously learning new technol
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxhdTg4enZvNHl3cXNvY3lqemRoaGxiczI5ZTJqaHU1cXd2bDBociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aYQrUHND0EF7a/giphy.gif" width="300"  />
 </p>
----
+
 <h2>📈 &nbsp;GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blisahn&show_icons=true&theme=github_dark&hide_title=true&count_private=true" alt="Ahmed's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blisahn&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
----
+
