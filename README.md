@@ -1,13 +1,28 @@
-Ahmet Bilal Şahin
-Full-Stack Developer — Building scalable backend systems and modern frontend applications.
-Currently a final-year Computer Engineering student at Eskişehir Technical University.
-What I Work With
-Backend: Java · Spring Boot · C# · .NET Core · Entity Framework Core · JPA/Hibernate
-Frontend: Next.js · React · Angular · TypeScript · Tailwind CSS
-Data & Messaging: PostgreSQL · MySQL · Redis · Apache Kafka · RabbitMQ · SignalR
-Architecture: Microservices · DDD · CQRS · Clean/Onion Architecture · Saga Pattern · Event-Driven Architecture
-DevOps: Docker · Git · Prometheus · Grafana
+# Ahmet Bilal Şahin
 
+**Full-Stack Developer** — Building scalable backend systems and modern frontend applications.
+
+Currently a final-year Computer Engineering student at Eskişehir Technical University.
+
+## What I Work With
+
+**Backend:** Java · Spring Boot · C# · .NET Core · Entity Framework Core · JPA/Hibernate
+
+**Frontend:** Next.js · React · Angular · TypeScript · Tailwind CSS
+
+**Data & Messaging:** PostgreSQL · MySQL · Redis · Apache Kafka · RabbitMQ · SignalR
+
+**Architecture:** Microservices · DDD · CQRS · Clean/Onion Architecture · Saga Pattern · Event-Driven Architecture
+
+### [Clean Bank](https://github.com/blisahn/core-banking) `In Development`
+Domain-driven core banking platform with CQRS, Transactional Outbox Pattern, and optimistic locking for concurrent transaction safety.
+
+`Spring Boot` `PostgreSQL` `RabbitMQ` `DDD` `CQRS`
+
+### [V-Stock](https://github.com/blisahn/VStock-API)
+Crypto asset tracking and trading simulation API. Redis-buffered WebSocket pipeline processing 1,000+ real-time messages/min.
+
+`.NET Core` `Redis` `EF Core` `WebSocket` `SignalR` `Onion Architecture`
 ## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ab-sahin/)
