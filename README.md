@@ -20,7 +20,7 @@ Domain-driven core banking platform with CQRS, Transactional Outbox Pattern, and
 `Spring Boot` `PostgreSQL` `RabbitMQ` `DDD` `CQRS`
 
 ### [V-Stock](https://github.com/blisahn/VStock-API)
-Crypto asset tracking and trading simulation API. Redis-buffered WebSocket pipeline processing 1,000+ real-time messages/min.
+Crypto asset tracking and trading simulation API. Redis-buffered WebSocket pipeline processing 1,000+ real-time messages/sec.
 
 `.NET Core` `Redis` `EF Core` `WebSocket` `SignalR` `Onion Architecture`
 ## Get in Touch
