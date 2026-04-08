@@ -4,6 +4,10 @@
 
 Currently a final-year Computer Engineering student at Eskişehir Technical University.
 
+Full-Stack Developer experienced in Java (Spring Boot) and C# (.NET Core) for backend, Next.js/React for frontend. Built
+event-driven microservice systems using Kafka, RabbitMQ, and patterns like Saga, CQRS, and Transactional Outbox.
+Passionate about designing scalable, maintainable architectures with domain-driven principles.
+
 ## What I Work With
 
 **Backend:** Java · Spring Boot · C# · .NET Core · Entity Framework Core · JPA/Hibernate
