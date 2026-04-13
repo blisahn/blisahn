@@ -20,7 +20,7 @@ Passionate about designing scalable, maintainable architectures with domain-driv
 
 ### [Clean Bank](https://github.com/blisahn/core-banking) `In Development`
 Domain-driven core banking platform with CQRS, Transactional Outbox Pattern, and optimistic locking for concurrent transaction safety.
-
+> 🔗 **Live Demo:** [https://ahmedshn.com](https://ahmedshn.com)
 `Spring Boot` `PostgreSQL` `RabbitMQ` `DDD` `CQRS`
 
 ### [V-Stock](https://github.com/blisahn/VStock-API)
