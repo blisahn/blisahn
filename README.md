@@ -18,7 +18,7 @@ Passionate about designing scalable, maintainable architectures with domain-driv
 
 **Architecture:** Microservices · DDD · CQRS · Clean/Onion Architecture · Saga Pattern · Event-Driven Architecture
 
-### [Clean Bank](https://github.com/blisahn/core-banking) `In Development`
+### [Clean Bank](https://github.com/blisahn/core-banking) 
 Domain-driven core banking platform with CQRS, Transactional Outbox Pattern, and optimistic locking for concurrent transaction safety.
 > 🔗 **Live Demo:** [https://ahmedshn.com](https://ahmedshn.com)
 `Spring Boot` `PostgreSQL` `RabbitMQ` `DDD` `CQRS`
